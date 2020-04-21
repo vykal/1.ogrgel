@@ -1,0 +1,12 @@
+<p style="text-align: center;">&nbsp;</p>
+<h1 style="text-align: center;">&nbsp;</h1>
+<h1 style="text-align: center;">Morov&eacute; hry</h1>
+<p style="text-align: left;">&nbsp;</p>
+<h1 style="text-align: left;">&nbsp;</h1>
+<ol>
+<li style="text-align: left;">neradte sa s in&yacute;mi t&yacute;mmi</li>
+<li style="text-align: left;">V&auml;Ëinou bude odpoveÔ zrejm&aacute;, preto netr&aacute;vte pr&iacute;uli&scaron; veæa Ëasu tipovan&iacute;m (Nik&eacute; je tipovanie, nie vy)</li>
+<li style="text-align: left;">Ak ste zaseknut&yacute; na nej&aacute;kom hlavolame, dajte si pauzu: spravte nej&aacute;ku fyzick&uacute; aktivitu, upracte 5 vec&iacute; vo va&scaron;ej izbe a <a href="https://vykal.github.io/1.ogrgel/tratö/">pokraËujte</a></li>
+<li style="text-align: left;">Ak ste uû hlavolam vyrie&scaron;ili, neznamen&aacute;, ûe nem&ocirc;ûe byù uûitoËn&yacute; aj pri in&yacute;ch</li>
+<li style="text-align: left;">Google je priateæ (alebo in&yacute; vyhæad&aacute;vaË)</li>
+</ol>
